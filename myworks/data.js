@@ -1,1 +1,1 @@
-var myData={designer:{name:'赵超',phone:'17607614020',tag:["#爱生活#·#爱运动#·#爱设计#"],bg:'#0080ff'},gallery:[]}
+var myData={designer:{name:'赵超',phone:'1767614020',tag:["#爱生活##爱运动##爱设计##也爱你#"],bg:'#0080ff'},gallery:[{src:"myworks/1.jpg",w:1920,h:600},{src:"myworks/4.jpg",w:1920,h:600},{src:"myworks/6.jpg",w:1920,h:600},{src:"myworks/2.jpg",w:1920,h:600},{src:"myworks/3.jpg",w:1920,h:650},{src:"myworks/7.jpg",w:1920,h:600},{src:"myworks/8.jpg",w:1920,h:600},{src:"myworks/9.jpg",w:1920,h:600},{src:"myworks/10-2.jpg",w:1920,h:600},{src:"myworks/未标题-1.jpg",w:1920,h:650},]}
