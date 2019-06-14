@@ -1,0 +1,1 @@
+var myData={designer:{name:'赵超',phone:'17607614020',tag:["#爱生活#·#爱运动#·#爱设计#"],bg:'#0080ff'},gallery:[]}
